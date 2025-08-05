@@ -8,10 +8,10 @@ This is a simple Express.js API project demonstrating basic route handling using
 ```
 
 express-api/
-├── app.js             # Main application entry point
+├── index.js             # Main application entry point
 ├── package.json       # Project configuration and dependencies
 └── api/               # API route handlers
-└── index.js       # Defines the API endpoints
+└──   index.js       # Defines the API endpoints
 
 ````
 
