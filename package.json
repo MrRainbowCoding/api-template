@@ -1,0 +1,23 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "Create a NodeJS and Express.js API easily with this template.",
+  "homepage": "https://github.com/MrRainbowCoding/api-template#readme",
+  "bugs": {
+    "url": "https://github.com/MrRainbowCoding/api-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRainbowCoding/api-template.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
