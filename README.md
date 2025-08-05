@@ -91,6 +91,3 @@ Returns dummy user data for a given ID:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-
-Let me know if you want to include `.env` support, Swagger docs, or deployment steps (e.g. on Vercel, Railway, or Heroku)!
-
